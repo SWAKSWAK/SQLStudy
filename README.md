@@ -1,1 +1,1 @@
-# SQLStud
+# SQLStudy
